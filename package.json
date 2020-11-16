@@ -1,0 +1,23 @@
+{
+  "name": "marksmathworld",
+  "version": "1.0.0",
+  "description": "Mark's Math World",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkSkits/marksmathworld.git"
+  },
+  "author": "Mark Huinker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkSkits/marksmathworld/issues"
+  },
+  "homepage": "https://github.com/MarkSkits/marksmathworld#readme"
+}
